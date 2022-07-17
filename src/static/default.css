@@ -1,0 +1,16 @@
+body {
+  font-size: 20px;
+}
+
+input, button {
+  font-size: 100%;
+  margin: 0.2rem;
+}
+
+.error {
+  color: red;
+}
+
+.token {
+  color: gray;
+}
